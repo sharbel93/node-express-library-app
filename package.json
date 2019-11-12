@@ -1,0 +1,16 @@
+{
+  "name": "express-library-app",
+  "version": "1.0.0",
+  "description": "A nodejs and express practice on building applications like the library app being built here",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "mongo"
+  ],
+  "author": "sharbel chris",
+  "license": "ISC"
+}
